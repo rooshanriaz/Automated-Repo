@@ -1,3 +1,4 @@
 # Automated-Repo
-##config.cfg
-config.cfg.png
+## config.cfg
+
+![Configuration File](config.cfg.png)
